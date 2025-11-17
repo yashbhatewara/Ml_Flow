@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/549453338776948394/12fb90f2641d4392b8308fcc9eb9dbab/artifacts
+deleted_time: 1763303296060
+end_time: 1763302854832
+entry_point_name: ''
+experiment_id: '549453338776948394'
+lifecycle_stage: deleted
+run_id: 12fb90f2641d4392b8308fcc9eb9dbab
+run_name: secretive-jay-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763302826784
+status: 3
+tags: []
+user_id: yash2
