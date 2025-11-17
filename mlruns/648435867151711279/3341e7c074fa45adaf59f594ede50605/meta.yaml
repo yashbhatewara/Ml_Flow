@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yash2/OneDrive/Desktop/MLOps/MLFLOW/EXP/mlruns/648435867151711279/3341e7c074fa45adaf59f594ede50605/artifacts
+end_time: 1763400634245
+entry_point_name: ''
+experiment_id: '648435867151711279'
+lifecycle_stage: active
+run_id: 3341e7c074fa45adaf59f594ede50605
+run_name: unique-croc-902
+run_uuid: 3341e7c074fa45adaf59f594ede50605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763400634118
+status: 3
+tags: []
+user_id: yash2

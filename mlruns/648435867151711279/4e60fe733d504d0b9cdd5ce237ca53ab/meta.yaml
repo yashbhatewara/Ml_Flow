@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yash2/OneDrive/Desktop/MLOps/MLFLOW/EXP/mlruns/648435867151711279/4e60fe733d504d0b9cdd5ce237ca53ab/artifacts
+end_time: 1763400644177
+entry_point_name: ''
+experiment_id: '648435867151711279'
+lifecycle_stage: active
+run_id: 4e60fe733d504d0b9cdd5ce237ca53ab
+run_name: unruly-crab-990
+run_uuid: 4e60fe733d504d0b9cdd5ce237ca53ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763400624606
+status: 3
+tags: []
+user_id: yash2

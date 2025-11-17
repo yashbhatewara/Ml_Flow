@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+mlflow.set_tracking_uri("http://127.0.0.1:5000")                   #local server based
 
 # Load Wine dataset
 wine = load_wine()
@@ -23,8 +23,8 @@ X_train = pd.DataFrame(X_train, columns=wine.feature_names)
 X_test  = pd.DataFrame(X_test,  columns=wine.feature_names)
 
 # Define the params for RF model
-max_depth = 12
-n_estimators = 8
+max_depth = 10
+n_estimators = 12
 
 # Mention your experiment below
 mlflow.set_experiment('Exp1')

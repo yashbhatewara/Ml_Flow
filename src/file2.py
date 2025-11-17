@@ -12,7 +12,7 @@ import pandas as pd
 import dagshub
 dagshub.init(repo_owner='yashbhatewara', repo_name='Ml_Flow', mlflow=True)
 
-mlflow.set_tracking_uri("https://dagshub.com/yashbhatewara/Ml_Flow.mlflow")
+mlflow.set_tracking_uri("https://dagshub.com/yashbhatewara/Ml_Flow.mlflow")   #Remote server based
 
 # Load Wine dataset
 wine = load_wine()
@@ -60,11 +60,8 @@ with mlflow.start_run():
 
     # tags
     mlflow.set_tags({"Author": 'Yash', "Project": "Wine Classification"})
-
-    signature = infer_signature(X_train, rf.predict(X_train.to_numpy()))
-    input_example = X_train.head(5)
     
     # Log the model
-    mlflow.sklearn.log_model(rf, "model")
+    mlflow.sklearn.log_model(rf, "Random-Forest-Model")
 
     print(accuracy)

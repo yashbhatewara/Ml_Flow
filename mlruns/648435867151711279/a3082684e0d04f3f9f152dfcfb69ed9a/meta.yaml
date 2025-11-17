@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yash2/OneDrive/Desktop/MLOps/MLFLOW/EXP/mlruns/648435867151711279/a3082684e0d04f3f9f152dfcfb69ed9a/artifacts
+end_time: 1763400633488
+entry_point_name: ''
+experiment_id: '648435867151711279'
+lifecycle_stage: active
+run_id: a3082684e0d04f3f9f152dfcfb69ed9a
+run_name: enthused-wasp-926
+run_uuid: a3082684e0d04f3f9f152dfcfb69ed9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763400633364
+status: 3
+tags: []
+user_id: yash2

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yash2/OneDrive/Desktop/MLOps/MLFLOW/EXP/mlruns/648435867151711279/a7027205574b4c53bddf0f4ff2e27941/artifacts
+end_time: 1763400634541
+entry_point_name: ''
+experiment_id: '648435867151711279'
+lifecycle_stage: active
+run_id: a7027205574b4c53bddf0f4ff2e27941
+run_name: incongruous-pug-250
+run_uuid: a7027205574b4c53bddf0f4ff2e27941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763400634404
+status: 3
+tags: []
+user_id: yash2

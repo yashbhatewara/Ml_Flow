@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yash2/OneDrive/Desktop/MLOps/MLFLOW/EXP/mlruns/648435867151711279/dc90ba046e6c4beb8e62702cce440962/artifacts
+end_time: 1763400633800
+entry_point_name: ''
+experiment_id: '648435867151711279'
+lifecycle_stage: active
+run_id: dc90ba046e6c4beb8e62702cce440962
+run_name: useful-bear-115
+run_uuid: dc90ba046e6c4beb8e62702cce440962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763400633672
+status: 3
+tags: []
+user_id: yash2

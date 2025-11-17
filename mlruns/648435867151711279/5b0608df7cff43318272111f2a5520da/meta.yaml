@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yash2/OneDrive/Desktop/MLOps/MLFLOW/EXP/mlruns/648435867151711279/5b0608df7cff43318272111f2a5520da/artifacts
+end_time: 1763400634389
+entry_point_name: ''
+experiment_id: '648435867151711279'
+lifecycle_stage: active
+run_id: 5b0608df7cff43318272111f2a5520da
+run_name: traveling-wasp-298
+run_uuid: 5b0608df7cff43318272111f2a5520da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763400634245
+status: 3
+tags: []
+user_id: yash2

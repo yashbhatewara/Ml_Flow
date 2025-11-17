@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yash2/OneDrive/Desktop/MLOps/MLFLOW/EXP/mlruns/648435867151711279/6ef2acf8f0d74403a9d902384e07a04f/artifacts
+end_time: 1763400633944
+entry_point_name: ''
+experiment_id: '648435867151711279'
+lifecycle_stage: active
+run_id: 6ef2acf8f0d74403a9d902384e07a04f
+run_name: sassy-kite-658
+run_uuid: 6ef2acf8f0d74403a9d902384e07a04f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763400633811
+status: 3
+tags: []
+user_id: yash2

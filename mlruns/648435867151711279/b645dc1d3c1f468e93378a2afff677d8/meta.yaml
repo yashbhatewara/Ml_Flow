@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yash2/OneDrive/Desktop/MLOps/MLFLOW/EXP/mlruns/648435867151711279/b645dc1d3c1f468e93378a2afff677d8/artifacts
+end_time: 1763400634102
+entry_point_name: ''
+experiment_id: '648435867151711279'
+lifecycle_stage: active
+run_id: b645dc1d3c1f468e93378a2afff677d8
+run_name: illustrious-fish-463
+run_uuid: b645dc1d3c1f468e93378a2afff677d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763400633944
+status: 3
+tags: []
+user_id: yash2

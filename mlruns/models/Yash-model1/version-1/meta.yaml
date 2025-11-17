@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1763401195024
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1763401300981
+name: Yash-model1
+run_id: 4e60fe733d504d0b9cdd5ce237ca53ab
+run_link: ''
+source: file:///C:/Users/yash2/OneDrive/Desktop/MLOps/MLFLOW/EXP/mlruns/648435867151711279/4e60fe733d504d0b9cdd5ce237ca53ab/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/yash2/OneDrive/Desktop/MLOps/MLFLOW/EXP/mlruns/648435867151711279/4e60fe733d504d0b9cdd5ce237ca53ab/artifacts/random_forest
+user_id: null
+version: 1
