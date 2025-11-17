@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/607897928720664546/8e95745db7454d268a562004b77ef6c2/artifacts
+deleted_time: 1763383319051
+end_time: 1763383235383
+entry_point_name: ''
+experiment_id: '607897928720664546'
+lifecycle_stage: deleted
+run_id: 8e95745db7454d268a562004b77ef6c2
+run_name: unique-moose-355
+run_uuid: 8e95745db7454d268a562004b77ef6c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763383234526
+status: 4
+tags: []
+user_id: yash2

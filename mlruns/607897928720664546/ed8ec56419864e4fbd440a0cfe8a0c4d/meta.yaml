@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/607897928720664546/ed8ec56419864e4fbd440a0cfe8a0c4d/artifacts
+end_time: 1763389412593
+entry_point_name: ''
+experiment_id: '607897928720664546'
+lifecycle_stage: active
+run_id: ed8ec56419864e4fbd440a0cfe8a0c4d
+run_name: abundant-robin-777
+run_uuid: ed8ec56419864e4fbd440a0cfe8a0c4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763389402492
+status: 3
+tags: []
+user_id: yash2

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/607897928720664546/62e83b8603c442269273856fd2da8c82/artifacts
+deleted_time: 1763383319038
+end_time: 1763383061441
+entry_point_name: ''
+experiment_id: '607897928720664546'
+lifecycle_stage: deleted
+run_id: 62e83b8603c442269273856fd2da8c82
+run_name: valuable-jay-484
+run_uuid: 62e83b8603c442269273856fd2da8c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763383060580
+status: 4
+tags: []
+user_id: yash2

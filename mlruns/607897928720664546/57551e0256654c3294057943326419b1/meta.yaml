@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/607897928720664546/57551e0256654c3294057943326419b1/artifacts
+end_time: 1763383386610
+entry_point_name: ''
+experiment_id: '607897928720664546'
+lifecycle_stage: active
+run_id: 57551e0256654c3294057943326419b1
+run_name: dazzling-mole-383
+run_uuid: 57551e0256654c3294057943326419b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763383377186
+status: 3
+tags: []
+user_id: yash2

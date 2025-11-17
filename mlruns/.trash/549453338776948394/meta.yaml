@@ -1,8 +1,0 @@
-artifact_location: mlflow-artifacts:/549453338776948394
-creation_time: 1763302825084
-experiment_id: '549453338776948394'
-last_update_time: 1763303296060
-lifecycle_stage: deleted
-name: YT-MLOPS-Exp1
-tags:
-  mlflow.experimentKind: custom_model_development

@@ -9,10 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
-import dagshub
-dagshub.init(repo_owner='yashbhatewara', repo_name='Ml_Flow', mlflow=True)
-
-mlflow.set_tracking_uri("https://dagshub.com/yashbhatewara/Ml_Flow.mlflow")
+mlflow.set_tracking_uri("http://127.0.0.1:5000")
 
 # Load Wine dataset
 wine = load_wine()
@@ -65,6 +62,6 @@ with mlflow.start_run():
     input_example = X_train.head(5)
     
     # Log the model
-    mlflow.sklearn.log_model(rf, "model")
+    mlflow.sklearn.log_model(rf, name="Random-Forest-Model", signature=signature, input_example=input_example)
 
     print(accuracy)

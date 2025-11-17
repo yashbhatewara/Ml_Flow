@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/607897928720664546/d5afa56b3eb5452498027d53c8daf460/artifacts
+end_time: 1763383277801
+entry_point_name: ''
+experiment_id: '607897928720664546'
+lifecycle_stage: active
+run_id: d5afa56b3eb5452498027d53c8daf460
+run_name: powerful-stag-978
+run_uuid: d5afa56b3eb5452498027d53c8daf460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763383268188
+status: 3
+tags: []
+user_id: yash2
